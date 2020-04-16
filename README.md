@@ -1,5 +1,5 @@
 # Yourls-OG
-Add a specific OpenGraph declaration to every redirect 
+Add a specific OpenGraph declaration to every Yourls redirect 
 
 # Use
 
